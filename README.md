@@ -20,9 +20,8 @@ This is a basic login and signup page built using HTML, CSS, and Express.js. The
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
 
-* git clone https://github.com/your-username/login-and-signup-page.git
 
 2. Install dependencies:
 
